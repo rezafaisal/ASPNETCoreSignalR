@@ -2,4 +2,4 @@
 
 Contoh project ini adalah project yang dibuat dari penjelasan buku "Seri Belajar ASP.NET: Membangung Aplikasi Real-Time dengan ASP.NET Core SignalR".
 
-![Seri Belajar ASP.NET: Membangung Aplikasi Real-Time dengan ASP.NET Core SignalR | width=500](https://github.com/rezafaisal/ASPNETCoreSignalR/blob/master/images/Capture.JPG)
+![Seri Belajar ASP.NET: Membangung Aplikasi Real-Time dengan ASP.NET Core SignalR width="500"](https://github.com/rezafaisal/ASPNETCoreSignalR/blob/master/images/Capture.JPG)
