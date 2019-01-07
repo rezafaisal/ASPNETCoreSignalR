@@ -1,4 +1,4 @@
-# ASP.NET Core SignalR Project Samples
+# ASP.NET Core SignalR Code Samples
 
 Contoh project ini adalah project yang dibuat dari penjelasan buku "Seri Belajar ASP.NET: Membangung Aplikasi Real-Time dengan ASP.NET Core SignalR".
 
